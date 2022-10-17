@@ -1,0 +1,13 @@
+------------------------------------------------------------------------
+Ceci est le fichier LISEZMOI (README) du projet.
+------------------------------------------------------------------------
+
+*TITRE DU PROJET* : Organisation d'un travail d'équipe (SAE2.06) 
+
+*BUT POURSUIVI* : Présenter un bilan de projet ainsi que les stratégies mises en oeuvre pour un travail d'équipe efficace.
+
+*VERSION ou DATE* : 13/06/2022 
+
+*AUTEURS* : Mickaël FERNANDEZ, Tilian HURÉ, Nicolas SACILOTTO et Maxime DOURLENT (4A)
+
+- Étant un projet portant sur de l'organisation d'un travail d'équipe, la présence de code est à négliger.
